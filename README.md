@@ -92,7 +92,7 @@ ToDo
 
 ## subgraph Endpoint 
 
-This is our subgraph Endpoint - https://thegraph.com/studio/subgraph/nft-marketplace-eth/v0.0.2
+This is our subgraph Endpoint - https://thegraph.com/studio/subgraph/nft-marketplace-eth/v0.0.3
 
 And in the playground we can run some quries to see diff events and responses from qraphql.\
 Once we run the script mint-and-list.js we can see our events(in playground) has been added active item event and the listed item event'\
@@ -108,4 +108,6 @@ And in our _app.js similar to moralis provider we also ve to wrap our app with t
 The contracts are deployed and verified in the Goerli testnet and the addresses are 
 
     - NftMarketPlace.sol: "0x50dd8aED0c3B11c99710C9fCBE27B4b6385a7680"
-    - BasicNft.sol: "0x7D2de13F52030f24e5EB7F4DD80a164Da5e0CC43"
+    - BasicNft.sol: new "0x3482BEC08d3ee21a03CC337816E082660f4D6696" "0x7D2de13F52030f24e5EB7F4DD80a164Da5e0CC43"
+
+QmaVkBn2tKmjbhphU7eyztbvSQU5EXDdqRyXZtRhSGgJGo
