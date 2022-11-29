@@ -25,7 +25,7 @@ async function mintAndList() {
     console.log("NFT Listed!")
     if (network.config.chainId == 31337) {
         // Moralis has a hard time if you move more than 1 at once!
-        await moveBlocks(1, (sleepAmount = 1000))
+        await moveBlocks(1, (sleepAmount = 1000)) //we'll wait 1s b/w each block that we mined 
     }
 }
 
