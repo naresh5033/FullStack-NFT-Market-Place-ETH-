@@ -110,4 +110,6 @@ The contracts are deployed and verified in the Goerli testnet and the addresses 
     - NftMarketPlace.sol: "0x50dd8aED0c3B11c99710C9fCBE27B4b6385a7680"
     - BasicNft.sol: new "0x3482BEC08d3ee21a03CC337816E082660f4D6696" "0x7D2de13F52030f24e5EB7F4DD80a164Da5e0CC43"
 
-QmaVkBn2tKmjbhphU7eyztbvSQU5EXDdqRyXZtRhSGgJGo
+## Deployed dApp
+
+The dApp was deployed in horuku - https://nft-marketplace-eth.herokuapp.com/
